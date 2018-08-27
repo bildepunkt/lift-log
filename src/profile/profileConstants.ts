@@ -1,0 +1,7 @@
+export const actionTypes = Object.freeze({
+  PROFILE_INIT: "PROFILE_INIT",
+  PROFILE_RESET: "PROFILE_RESET",
+  PROFILE_SAVE: "PROFILE_SAVE",
+});
+
+export const PROFILE_STATE_DATA = "PROFILE_STATE_DATA"
